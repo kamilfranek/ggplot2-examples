@@ -1,0 +1,41 @@
+"ticker","name","date","type","value","element_id","label","category","grouping","AmountAdj","AmountEOP","AmountBOP","color_categ","AmountAdjMagnified","AmountEOPMagnified","AmountBOPMagnified","id2"
+"aapl","Apple Inc.","2016-09-24","value",215639,1,"Net sales","item_plus","2016",215.639,215.639,0,"positive",215.639,215.639,0,10
+"aapl","Apple Inc.","2016-09-24","value",131376,2,"Cost of sales","item_minus","2016",-131.376,84.263,215.639,"negative",-131.376,84.263,215.639,9
+"aapl","Apple Inc.","2016-09-24","value",84263,3,"Gross margin","sub_core","2016",84.263,84.263,0,"sub_core",84.263,84.263,0,8
+"aapl","Apple Inc.","2016-09-24","value",10045,4,"Research and development","item_minus","2016",-10.045,74.218,84.263,"negative",-10.045,74.218,84.263,7
+"aapl","Apple Inc.","2016-09-24","value",14194,5,"Selling, general and admin.","item_minus","2016",-14.194,60.024,74.218,"negative",-14.194,60.024,74.218,6
+"aapl","Apple Inc.","2016-09-24","value",60024,7,"Operating income","sub_core","2016",60.024,60.024,0,"sub_core",60.024,60.024,0,5
+"aapl","Apple Inc.","2016-09-24","value",1348,8,"Other income","item_plus","2016",1.348,61.372,60.024,"positive",1.348,61.372,60.024,4
+"aapl","Apple Inc.","2016-09-24","value",61372,9,"Income before taxes","sub_core","2016",61.372,61.372,0,"sub_core",61.372,61.372,0,3
+"aapl","Apple Inc.","2016-09-24","value",15685,10,"Income taxes","item_minus","2016",-15.685,45.687,61.372,"negative",-15.685,45.687,61.372,2
+"aapl","Apple Inc.","2016-09-24","value",45687,11,"Net income","sub_core","2016",45.687,45.687,0,"sub_core",45.687,45.687,0,1
+"aapl","Apple Inc.","2017-09-30","value",229234,1,"Net sales","item_plus","2017",229.234,229.234,0,"positive",229.234,229.234,0,10
+"aapl","Apple Inc.","2017-09-30","value",141048,2,"Cost of sales","item_minus","2017",-141.048,88.186,229.234,"negative",-141.048,88.186,229.234,9
+"aapl","Apple Inc.","2017-09-30","value",88186,3,"Gross margin","sub_core","2017",88.186,88.186,0,"sub_core",88.186,88.186,0,8
+"aapl","Apple Inc.","2017-09-30","value",11581,4,"Research and development","item_minus","2017",-11.581,76.605,88.186,"negative",-11.581,76.605,88.186,7
+"aapl","Apple Inc.","2017-09-30","value",15261,5,"Selling, general and admin.","item_minus","2017",-15.261,61.344,76.605,"negative",-15.261,61.344,76.605,6
+"aapl","Apple Inc.","2017-09-30","value",61344,7,"Operating income","sub_core","2017",61.344,61.344,0,"sub_core",61.344,61.344,0,5
+"aapl","Apple Inc.","2017-09-30","value",2745,8,"Other income","item_plus","2017",2.745,64.089,61.344,"positive",2.745,64.089,61.344,4
+"aapl","Apple Inc.","2017-09-30","value",64089,9,"Income before taxes","sub_core","2017",64.089,64.089,0,"sub_core",64.089,64.089,0,3
+"aapl","Apple Inc.","2017-09-30","value",15738,10,"Income taxes","item_minus","2017",-15.738,48.351,64.089,"negative",-15.738,48.351,64.089,2
+"aapl","Apple Inc.","2017-09-30","value",48351,11,"Net income","sub_core","2017",48.351,48.351,0,"sub_core",48.351,48.351,0,1
+"aapl","Apple Inc.","2018-09-29","value",265595,1,"Net sales","item_plus","2018",265.595,265.595,0,"positive",265.595,265.595,0,10
+"aapl","Apple Inc.","2018-09-29","value",163756,2,"Cost of sales","item_minus","2018",-163.756,101.839,265.595,"negative",-163.756,101.839,265.595,9
+"aapl","Apple Inc.","2018-09-29","value",101839,3,"Gross margin","sub_core","2018",101.839,101.839,0,"sub_core",101.839,101.839,0,8
+"aapl","Apple Inc.","2018-09-29","value",14236,4,"Research and development","item_minus","2018",-14.236,87.603,101.839,"negative",-14.236,87.603,101.839,7
+"aapl","Apple Inc.","2018-09-29","value",16705,5,"Selling, general and admin.","item_minus","2018",-16.705,70.898,87.603,"negative",-16.705,70.898,87.603,6
+"aapl","Apple Inc.","2018-09-29","value",70898,7,"Operating income","sub_core","2018",70.898,70.898,0,"sub_core",70.898,70.898,0,5
+"aapl","Apple Inc.","2018-09-29","value",2005,8,"Other income","item_plus","2018",2.005,72.903,70.898,"positive",2.005,72.903,70.898,4
+"aapl","Apple Inc.","2018-09-29","value",72903,9,"Income before taxes","sub_core","2018",72.903,72.903,0,"sub_core",72.903,72.903,0,3
+"aapl","Apple Inc.","2018-09-29","value",13372,10,"Income taxes","item_minus","2018",-13.372,59.531,72.903,"negative",-13.372,59.531,72.903,2
+"aapl","Apple Inc.","2018-09-29","value",59531,11,"Net income","sub_core","2018",59.531,59.531,0,"sub_core",59.531,59.531,0,1
+"aapl","Apple Inc.","2018-09-29","change",36361,1,"Net sales","item_plus","Change 2018",36.361,36.361,0,"positive_change",181.805,181.805,0,10
+"aapl","Apple Inc.","2018-09-29","change",22708,2,"Cost of sales","item_minus","Change 2018",-22.708,13.653,36.361,"negative_change",-113.54,68.265,181.805,9
+"aapl","Apple Inc.","2018-09-29","change",13653,3,"Gross margin","sub_core","Change 2018",13.653,13.653,0,"sub_core",68.265,68.265,0,8
+"aapl","Apple Inc.","2018-09-29","change",2655,4,"Research and development","item_minus","Change 2018",-2.655,10.998,13.653,"negative_change",-13.275,54.99,68.265,7
+"aapl","Apple Inc.","2018-09-29","change",1444,5,"Selling, general and admin.","item_minus","Change 2018",-1.444,9.554,10.998,"negative_change",-7.22,47.77,54.99,6
+"aapl","Apple Inc.","2018-09-29","change",9554,7,"Operating income","sub_core","Change 2018",9.554,9.554,0,"sub_core",47.77,47.77,0,5
+"aapl","Apple Inc.","2018-09-29","change",-740,8,"Other income","item_plus","Change 2018",-0.74,8.814,9.554,"negative_change",-3.7,44.07,47.77,4
+"aapl","Apple Inc.","2018-09-29","change",8814,9,"Income before taxes","sub_core","Change 2018",8.814,8.814,0,"sub_core",44.07,44.07,0,3
+"aapl","Apple Inc.","2018-09-29","change",-2366,10,"Income taxes","item_minus","Change 2018",2.366,11.18,8.814,"positive_change",11.83,55.9,44.07,2
+"aapl","Apple Inc.","2018-09-29","change",11180,11,"Net income","sub_core","Change 2018",11.18,11.18,0,"sub_core",55.9,55.9,0,1
