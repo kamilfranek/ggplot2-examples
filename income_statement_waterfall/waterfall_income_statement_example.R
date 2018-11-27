@@ -16,7 +16,6 @@ data = read.csv("data.csv")
 data_tmp = data %>%
   filter(ticker == "aapl") %>%
   arrange(desc(type), date,element_id)%>%
-  #necessary to order after filtering. Because of duplicities not possible to order for muliple tickes.
   mutate(metric_wrap = str_wrap(label, width = 55))%>%
   mutate(metric_wrap = fct_rev(fct_inorder(metric_wrap))) %>% 
   mutate(grouping = fct_inorder(grouping)) %>%
